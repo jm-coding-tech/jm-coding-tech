@@ -1,0 +1,117 @@
+<div class="w-[1440px] h-[4241px] relative bg-white overflow-hidden">
+
+      <!-- Nav Bar -->
+      <div class="w-[1440px] h-40 left-0 top-0 absolute bg-white outline-1 outline-black overflow-hidden">
+        <div class="size- left-[816px] top-[56px] absolute inline-flex items-center gap-12 justify-center text-black text-xl font-normal font-['Poppins'] leading-loose">
+          <div>Projects</div>
+          <div>Experience</div>
+          <div>About Me</div>
+          <div>Contact Me</div>
+        </div>
+        <div class="left-[80px] top-[67px] absolute justify-center text-black text-xl font-normal font-['Poppins'] leading-loose">My Portfolio</div>
+      </div>
+
+      <div class="w-[1440px] h-64 left-0 top-[3977px] absolute bg-white overflow-hidden">
+        <div class="w-48 left-[1173px] top-[48px] absolute inline-flex flex-col justify-center items-end gap-6">
+          <div class="self-stretch justify-center text-black text-base font-normal font-['Poppins'] leading-normal">Topic</div>
+          <div class="self-stretch justify-center text-zinc-700 text-base font-normal font-['Poppins'] leading-normal">Page</div>
+          <div class="self-stretch justify-center text-zinc-700 text-base font-normal font-['Poppins'] leading-normal">Page</div>
+          <div class="self-stretch justify-center text-zinc-700 text-base font-normal font-['Poppins'] leading-normal">Page</div>
+        </div>
+        <div class="left-[80px] top-[52px] absolute justify-center text-black text-2xl font-normal font-['Poppins'] leading-9">My Portfolio</div>
+        <div class="size- left-[80px] top-[176px] absolute inline-flex justify-start items-start gap-2">
+          <div class="size-10 relative rounded-sm">
+            <div class="size-6 left-[8px] top-[8px] absolute">1</div>
+          </div>
+          <div class="size-10 relative rounded-sm">
+            <div class="size-6 left-[8px] top-[8px] absolute">2</div>
+          </div>
+          <div class="size-10 relative rounded-sm">
+            <div class="size-6 left-[8px] top-[8px] absolute">3</div>
+          </div>
+          <div class="size-10 relative rounded-sm">
+            <div class="size-6 left-[8px] top-[8px] absolute">4</div>
+          </div>
+        </div>
+        <div class="w-[1280px] h-0 left-[80px] top-[1px] absolute outline-1 outline-offset-[-0.50px] outline-neutral-200"></div>
+      </div>
+      
+      <div class="w-[624px] left-[80px] top-[1371px] absolute justify-start text-black text-5xl font-semibold font-['Poppins']">Projects</div>
+      <div class="w-[1279px] left-[80px] top-[1477px] absolute inline-flex justify-center items-start gap-8">
+        <div class="flex-1 inline-flex flex-col justify-start items-start gap-6">
+          <img class="self-stretch h-96 relative rounded-lg" src="https://placehold.co/405x405" />
+          <div class="w-96 flex flex-col justify-center items-start gap-1">
+            <div class="self-stretch text-center justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">KIOSKO</div>
+            <div class="self-stretch text-center justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">
+              My first app I ever built from scratch for a thesis of UP students with a functional UI and database using Firebase.
+            </div>
+          </div>
+        </div>
+        <div class="flex-1 inline-flex flex-col justify-start items-start gap-6">
+          <img class="self-stretch h-96 relative rounded-lg" src="https://placehold.co/405x405" />
+          <div class="w-96 flex flex-col justify-center items-start gap-1">
+            <div class="self-stretch justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">Subheading</div>
+            <div class="self-stretch justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">Body text for whatever you’d like to expand on the main point.</div>
+          </div>
+        </div>
+        <div class="flex-1 inline-flex flex-col justify-start items-start gap-6">
+          <img class="self-stretch h-96 relative rounded-lg" src="https://placehold.co/405x405" />
+          <div class="w-96 flex flex-col justify-center items-start gap-1">
+            <div class="self-stretch justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">Subheading</div>
+            <div class="self-stretch justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">Body text for whatever you’d like to share more.</div>
+          </div>
+        </div>
+      </div>
+      <img class="size-[704px] left-[736px] top-[2198px] absolute rounded-tl-lg rounded-bl-lg" src="https://placehold.co/704x704" />
+      <div class="w-[624px] left-[80px] top-[3082px] absolute justify-start text-black text-5xl font-normal font-['Poppins']">About JM</div>
+      <div class="w-[1280px] left-[80px] top-[3188px] absolute inline-flex justify-start items-center gap-8">
+        <div class="flex-1 inline-flex flex-col justify-start items-start gap-8 overflow-hidden">
+          <img class="self-stretch h-80 relative rounded-lg" src="https://placehold.co/1280x341" />
+          <div class="self-stretch flex flex-col justify-start items-start gap-2">
+            <div class="w-[548px] justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">Subheading</div>
+            <div class="w-[548px] justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">Body text for whatever you’d like to add more to the subheading.</div>
+          </div>
+        </div>
+      </div>
+      <div class="w-[624px] left-[80px] top-[2198px] absolute justify-start text-black text-5xl font-semibold font-['Poppins']">Experience</div>
+      <div class="w-[516px] left-[79px] top-[2304px] absolute inline-flex flex-col justify-start items-end gap-12">
+        <div class="self-stretch flex flex-col justify-center items-start gap-2">
+          <div class="w-[515px] justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">Subheading</div>
+          <div class="w-[515px] justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">Body text for whatever you’d like to expand on the main point.</div>
+        </div>
+        <div class="self-stretch flex flex-col justify-center items-start gap-2">
+          <div class="w-[515px] justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">Subheading</div>
+          <div class="w-[515px] justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">
+            Body text for whatever you’d like to say. Add main takeaway points, quotes, anecdotes.
+          </div>
+        </div>
+        <div class="self-stretch flex flex-col justify-center items-start gap-2">
+          <div class="self-stretch justify-start text-black text-2xl font-normal font-['Poppins'] leading-9">Subheading</div>
+          <div class="self-stretch justify-center text-zinc-500 text-2xl font-normal font-['Poppins'] leading-9">
+            Body text for whatever you’d like to add more to the main point. It provides details, explanations, and context.
+          </div>
+        </div>
+      </div>
+      <div class="w-[1440px] h-60 left-0 top-[3734px] absolute bg-neutral-100 overflow-hidden">
+        <div class="size- left-[913px] top-[80px] absolute inline-flex justify-end items-center gap-6">
+          <div class="size- px-8 py-5 bg-black rounded-lg shadow-[0px_1px_2px_0px_rgba(0,0,0,0.05)] flex justify-start items-center gap-2">
+            <div class="justify-center text-white text-2xl font-normal font-['Poppins'] leading-9">Button</div>
+          </div>
+          <div class="size- px-8 py-5 bg-neutral-200 rounded-lg shadow-[0px_1px_2px_0px_rgba(0,0,0,0.05)] flex justify-start items-center gap-2">
+            <div class="justify-center text-✦-_text-text-default/90 text-2xl font-normal font-['Poppins'] leading-9">Secondary button</div>
+          </div>
+        </div>
+        <div class="w-[625px] left-[80px] top-[89px] absolute justify-start text-black text-5xl font-normal font-['Poppins']">Section heading</div>
+      </div>
+      <div class="w-[1281px] left-[80px] top-[548px] absolute inline-flex flex-col justify-start items-start gap-10">
+        <div class="self-stretch flex flex-col justify-start items-start gap-6">
+          <div class="self-stretch justify-start text-black text-6xl font-normal font-['Poppins']">Jean Martin Sta Cruz</div>
+          <div class="self-stretch justify-center text-black/75 text-2xl font-normal font-['Poppins'] leading-9">
+            Subheading that sets up context, shares more info about the website, or generally gets people psyched to keep scrolling.
+          </div>
+        </div>
+        <div class="size- px-8 py-5 bg-black rounded-lg shadow-[0px_1px_2px_0px_rgba(0,0,0,0.05)] inline-flex justify-start items-center gap-2">
+          <div class="justify-center text-white text-2xl font-normal font-['Poppins'] leading-9">Button</div>
+        </div>
+      </div>
+    </div>
