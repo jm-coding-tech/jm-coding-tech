@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeanmartin.stacruz@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1OJK9kywV1cy4xB-Nk7GoBKOi1U0JZQE3/view)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1QYKrxFPHMfZDZ2GhYSewEbMp34IpHhog/view)
 
 - ⚡ Fun fact **I stream on twitch and fb when I'm the mood, and an MCU fan (Phase 1 to 4 only + Loki S2)**
 
